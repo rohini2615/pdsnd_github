@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+04/17/2020
 
 ### Project Title
-Replace the Project Title
+Udacity Bike-Share project
 
 ### Description
-Describe what your project is about and what it does
+Run descriptive statistics on multiple data pools related to bike share systems
 
 ### Files used
-Include the files used
+new_york_city.csv chicago.csv washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+hank you to Udacity for creating the challenging project!
 
