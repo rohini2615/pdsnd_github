@@ -11,5 +11,8 @@ Run descriptive statistics on multiple data pools related to bike share systems
 new_york_city.csv chicago.csv washington.csv
 
 ### Credits
-hank you to Udacity for creating the challenging project!
+Thank you to Udacity for creating the challenging project!
+
+### Resources
+www.google.com
 
